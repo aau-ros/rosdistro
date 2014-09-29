@@ -10,7 +10,7 @@ release_platforms:
   - quantal
   - raring
 repositories:
-    aau_multi_robot:
+  aau_multi_robot:
     release:
       packages:
       - adhoc_communication
