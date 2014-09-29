@@ -20,10 +20,6 @@ repositories:
         release: release/hydro/{package}/{version}
       url: https://github.com/aau-ros/aau_multi_robot-release.git
       version: 0.1.1-1
-    source:
-      type: git
-      url: https://github.com/aau-ros/aau_multi_robot.git
-      version: hydro
   abb:
     doc:
       type: git
